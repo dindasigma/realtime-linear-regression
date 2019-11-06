@@ -1,0 +1,12 @@
+whmcs_host: ''
+whmcs_api_url: ''
+whmcs_api_command: 'getDataServerUsed'
+whmcs_api_username: ''
+whmcs_api_password: ''
+
+absolute_path: '../'
+csv_path: './data/data_example.csv'
+model_path: './data/linear_regression_model.pkl'
+training_data_path: './data/training_data.pkl'
+training_labels_path: './data/training_labels.pkl'
+summary_result_path: './data/summary_result.pkl'
